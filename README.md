@@ -11,4 +11,4 @@ A quick template ready to run. Express, webpack, and babel are configured to imm
 7. Open the root folder in your editor of choice and enjoy.
 
 #### Guide to Build this Template
-- Hosted on GitHub Pages, you can try out the [current abomination here.](https://alsalgu.github.io/nagual-alpha/)
+- I wrote a guide to build this exact thing on Codementor. [Read 'A Simple MERN Stack Template'](https://www.codementor.io/alejandrasaldaa/a-simple-mern-stack-template-pt-1-m7khwpwwp)
